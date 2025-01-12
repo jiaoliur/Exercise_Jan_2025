@@ -1,0 +1,24 @@
+Tag Counts:
+Tag,Count
+sv_P2,1
+SV_P3,1
+sv_P1,2
+sv_P5,1
+email,3
+Untagged,6
+Port/Protocol Combination Counts:
+Port,ProtocolCount
+23,tcp,1
+993,tcp,1
+49321,tcp,1
+80,tcp,1
+25,tcp,1
+443,tcp,1
+110,tcp,1
+143,tcp,1
+1030,tcp,1
+56000,tcp,1
+49152,tcp,1
+0,icmp,1
+31,udp,1
+1024,tcp,1
